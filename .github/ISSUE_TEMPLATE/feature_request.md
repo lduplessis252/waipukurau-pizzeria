@@ -14,7 +14,7 @@ A clear and concise description of what the problem is will assist us in underst
 **What solution would you like to see?**
 A clear and concise description of how we can address/improve your experience can help us find a solution.
 
-**What other alternatives have you considered?*
+**What other alternatives have you considered?**
 A clear and concise description of any alternative solutions or features you've considered can help us make improvements.
 
 **Any additional information to add?**
